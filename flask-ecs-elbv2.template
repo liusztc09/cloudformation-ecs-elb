@@ -42,10 +42,10 @@
         "AWSRegionToAMI": {
             "us-east-1": { "AMIID": "ami-3d55272a" },
             "us-west-1": { "AMIID": "ami-444d0224" },
-            "us-west-2": { "AMIID": "ami-1ccd1f7c" },
+            "us-west-2": { "AMIID": "ami-8e7bc4ee" },
             "eu-west-1": { "AMIID": "ami-b6760fc5" },
             "ap-northeast-1": { "AMIID": "ami-096cba68" },
-            "ap-southeast-2": { "AMIID": "ami-22a49541" },
+            "ap-southeast-2": { "AMIID": "ami-307f7853" },
             "ap-southeast-1": { "AMIID": "ami-7934ee1a" },
             "eu-central-1": { "AMIID": "ami-f562909a" }
         }
